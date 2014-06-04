@@ -1,4 +1,4 @@
-FOSUserBundle
+FOSUserBundle.
 =============
 
 The FOSUserBundle adds support for a database-backed user system in Symfony2.
